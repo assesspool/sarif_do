@@ -29,5 +29,6 @@ User Documentation
 Starting server: node server.js
 
 Starting client: ng serve
-<a href="./my-diagram.png" target="_blank">![Diagram](./my-diagram.png)</a>
+<a href="client/build/docs/uml_diag.png" target="_blank">![Diagram](client/build/docs/uml_diag.png)</a>
+<a href="client/build/docs/index.html">Class list</a>
 
