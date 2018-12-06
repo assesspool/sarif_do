@@ -8,5 +8,8 @@ Thumbs.db
 .idea/
 
 # Ingnore folder named 'node_module333s'
-node_modules333/
+node_modules/
+
+# Dist
+dist/
 
